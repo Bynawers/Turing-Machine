@@ -1,4 +1,6 @@
 # Turing-Machine
+![Project](https://img.shields.io/badge/University-Project-2F77DF?labelColor=679EEE&style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=ffffff)
 
 Projet universitaire de Théorie des Langages:
 Le but de ce projet est d’exécuter pas à pas des machines de Turing, ainsi que de simuler des machines
